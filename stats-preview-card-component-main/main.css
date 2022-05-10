@@ -15,7 +15,8 @@ body{
 .card__image{
     width:100%;
     mix-blend-mode: multiply;
-    border-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
     display: block;
    
 }
